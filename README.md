@@ -10,15 +10,6 @@
 
 ### Languages and Tools:
 
-### Skills:
-
-<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">numpy</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
-<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Pandas</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
-<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">TensorFlow</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
-<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Matplotlib</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
-<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Seaborn</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
-
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>](https://www.tensorflow.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)
