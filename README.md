@@ -7,5 +7,14 @@
 - 🌱 I’m continuously learning and experimenting with new technologies in the realms of AI, ML, and Data Science.
 - 💬 I'm happy to share my knowledge and experiences
 - 🚀 Let's connect and embark on an exciting journey together! 🌟
+
+### Languages and Tools:
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>](https://www.tensorflow.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>](https://isocpp.org/)
+
+
   
 
