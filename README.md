@@ -1,6 +1,6 @@
 # Hi folks, how's it going 👋
 <div align="center">
-  <h1>Hi there, I'm Tushar Bhohekar! 👋</h1>
+  <h1> I'm Tushar Bhogekar! 👋</h1>
 </div>
 
 - 🔭 I’m currently working on various AI projects to explore innovative solutions and enhance my skills.
