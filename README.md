@@ -10,6 +10,14 @@
 
 ### Languages and Tools:
 
+| :----------------:| :--------------:|
+| Numpy             | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+| Pandas            | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+| TensorFlow        | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+| Matplotlib        | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+| Seaborn           | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>](https://www.tensorflow.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)
