@@ -10,8 +10,6 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>](https://www.tensorflow.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)
