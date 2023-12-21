@@ -10,12 +10,13 @@
 
 ### Languages and Tools:
 
-| :----------------:| :--------------:|
-| Numpy             | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
-| Pandas            | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
-| TensorFlow        | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
-| Matplotlib        | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
-| Seaborn           | ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) (4/5) |
+### Skills:
+
+<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">numpy</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
+<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Pandas</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
+<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">TensorFlow</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
+<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Matplotlib</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
+<span style="background-color: #D0D0D0; padding: 5px; border-radius: 5px;">Seaborn</span> ![4/5](https://via.placeholder.com/15/98C379/000000?text=+) &nbsp;
 
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>](https://www.python.org/)
